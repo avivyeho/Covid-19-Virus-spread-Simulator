@@ -1,0 +1,3 @@
+/home/aviv/Documents/Covid-19-virus-spread-simulator/src/cmake-build-debug/CMakeFiles/Cells.dir
+/home/aviv/Documents/Covid-19-virus-spread-simulator/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aviv/Documents/Covid-19-virus-spread-simulator/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

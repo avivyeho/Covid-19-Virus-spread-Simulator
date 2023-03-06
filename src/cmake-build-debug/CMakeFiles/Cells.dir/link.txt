@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Cells.dir/main.cpp.o CMakeFiles/Cells.dir/CellularAutomata.cpp.o CMakeFiles/Cells.dir/Cell.cpp.o CMakeFiles/Cells.dir/Individual.cpp.o CMakeFiles/Cells.dir/State.cpp.o CMakeFiles/Cells.dir/CFG.cpp.o CMakeFiles/Cells.dir/PDA.cpp.o -o Cells 
